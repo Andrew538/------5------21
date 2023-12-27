@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('./fonts/Roboto-Black.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+.title {
+    font-family: sans-serif;
+}
